@@ -23,7 +23,7 @@ export const profile = {
   links: [
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/saketraja' },
     { label: 'GitHub', url: 'https://github.com/saketraja26' },
-    { label: 'DrawFive', url: 'https://www.drawfive.in' },
+    { label: 'DrawFive', url: 'https://draw-v.vercel.app/' },
     { label: 'CypherCorp', url: 'https://www.cyphercorp.in' },
   ],
   bio: [
@@ -157,7 +157,7 @@ export const projects = [
     ],
     stack: ['Next.js 15', 'React 19', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Socket.IO', 'Zod', 'MongoDB Atlas', 'Mongoose', 'NextAuth', 'Vercel'],
     links: [
-      { label: 'Visit drawfive.in', url: 'https://www.drawfive.in' },
+      { label: 'Visit drawfive.in', url: 'https://draw-v.vercel.app/' },
       { label: 'View repository', url: 'https://github.com/pranavnigade123/DrawV' },
     ],
   },
